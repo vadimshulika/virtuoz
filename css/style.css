@@ -1,0 +1,201 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+.cap{
+  height: 215px;
+  background-image: url(../img/bg_cap.jpg);
+}
+
+.logotip{
+  margin-top: 35px;
+  margin-left: 50px;
+  cursor: pointer;
+}
+
+.label_logotip_text{
+  margin-top: 20px;
+  margin-left: 10px;
+  margin-right: 100px;
+}
+
+.logotip_text{
+  font-family: 'Montserrat', sans-serif;
+  display: inline-block;
+  color: white;
+  font-size: 36px;
+}
+
+.logotip_text_footer{
+  font-size: 20px;
+  line-height: 20px;
+}
+
+.sections_secect{
+  position: absolute;
+  right: 20px;
+}
+
+.select{
+  font-family: 'Montserrat', sans-serif;
+  display: inline-block;
+  margin: 50px 25px;
+  font-size: 36px;
+  color: white;
+  cursor: pointer;
+}
+
+.section{
+  text-align: center;
+  margin-top: 60px;
+}
+
+.label_section{
+  font-family: 'Montserrat', sans-serif;
+  color: #395b51;
+  font-size: 48px;
+  font-weight: 900;
+}
+
+.training{
+  text-align: center;
+  margin-top: 20px;
+}
+
+.label_training{
+  font-family: 'Montserrat', sans-serif;
+  color: #395b51;
+  font-size: 48px;
+  font-weight: 900;
+}
+
+.training_text{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 30px;
+  color: #395b51;
+  line-height: 30px;
+}
+
+.footer{
+	background-color: #395b51;
+	margin-top: 75px;
+	padding: 10px 0px;
+}
+
+.locate{
+	display: inline-block;
+}
+
+.locate_info{
+  font-family: 'Montserrat', sans-serif;
+	display: inline-block;
+	vertical-align: top;
+	text-align: left;
+	color: white;
+	font-size: 20px;
+}
+
+.colmn{
+	text-align: center;
+}
+
+.vk{
+  color: white;
+  text-decoration: none;
+}
+
+.vk:hover{
+  color: white;
+  border-color: white;
+}
+
+.centr{
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
+
+.face{
+  text-align: left;
+  margin-top: 20px;
+}
+
+.text_face{
+  color: #395b51;
+}
+
+.name{
+  font-size: 26px;
+}
+
+.positions{
+  font-size: 20px;
+}
+
+.invite_label{
+  text-align: center;
+  line-height: 3rem;
+}
+
+.text_invite{
+  font-family: 'Montserrat', sans-serif;
+  color:#395b51;
+  font-size: 26px;
+  text-align: center;
+  margin: 30px 0px;
+}
+
+.invate_name{
+  font-family: 'Montserrat', sans-serif;
+  display: block;
+  text-align: center;
+  margin-bottom: 20px;
+  color:#395b51;
+  border-radius: 5px;
+  border: 3px solid #395b51;
+  font-size: 26px;
+  padding: 5px;
+  cursor: pointer;
+}
+
+.user_info{
+  text-align: center;
+}
+
+.invate_form__btn{
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+  background-color: #395b51;
+  border-radius: 5px;
+  direction: none;
+  font-size: 36px;
+  padding: 10px;
+  margin-top: 20px;
+  margin-left: 50px;
+  cursor: pointer;
+}
+
+.l_s_v2{
+  font-size: 64px;
+}
+
+.mg{
+  margin-top: 30px;
+}
+
+.action_text{
+  font-size: 48px;
+  color: #395b51;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.l_s_v3{
+  line-height: 26px;
+  font-size: 36px;
+}
+
+.mint{
+  font-size: 26px;
+}
+
+.video{
+  margin: 30px 15px;
+}
+
